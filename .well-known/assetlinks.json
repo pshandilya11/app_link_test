@@ -15,5 +15,14 @@
     "sha256_cert_fingerprints":
     ["66:AE:DA:BD:3D:62:E1:36:EB:63:CB:DB:4C:FF:CA:AB:4F:47:A8:FE:32:57:D4:1B:A8:DB:AD:A1:59:36:58:CE"]
   }
+,
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.yuganshtyagi.applinkpoc",
+    "sha256_cert_fingerprints":
+    ["98:DC:48:5F:36:96:A7:68:FD:CD:AE:21:1F:2E:22:C2:6A:1E:C9:87:FD:3B:BD:99:DA:57:1E:77:B2:6C:54:F1"]
+  }
 }
 ]

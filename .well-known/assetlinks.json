@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.yuganshtyagi.applinkpoc",
+    "sha256_cert_fingerprints":
+    ["66:AE:DA:BD:3D:62:E1:36:EB:63:CB:DB:4C:FF:CA:AB:4F:47:A8:FE:32:57:D4:1B:A8:DB:AD:A1:59:36:58:CE"]
+  }
+}]
